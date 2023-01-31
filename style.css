@@ -1,0 +1,205 @@
+ * {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+.first {
+	width: 100%;
+	height: 126px;
+	background-color: #eaaf46;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 80px;
+	color: #eaaf46;
+	font-family: "Bebas";
+	text-align: center;
+}
+.text1 {
+	font-size: 20px;
+	text-align:center;
+	color: #000000;
+	font-weight: bold;
+	font-family: "Arial";
+}
+p {
+	text-align: center;
+}
+h2 {
+	font-size: 30px;
+	color: #000000;
+	font-family: "Bebas";
+	line-height: 100px;
+}
+.third {
+	width: 700px;
+	margin: auto;
+}
+.fourth {
+	width: 700px;
+	margin: auto;
+}
+.fifth {
+	width: 700px;
+	margin: auto;
+}
+.sixth {
+	width: 700px;
+	margin: auto;
+}
+.seventh {
+	width: 100%;
+	height: 126px;
+	background-color: #eaaf46;
+	padding: 20px;
+}
+.eight {
+	width: 700px;
+	height: 116px;
+	font-size: 16px;
+	line-height: 25px;
+	color: #000000;
+	font-family: "Arial";
+	text-align:center;
+	display:block;
+	margin: auto;
+	padding: 20px;
+}
+.football-title {
+	font-size: 25px;
+	color: #000000;
+	font-family: "Bebas";
+	display: inline-block;
+	float: right;
+}
+.dance-title {
+	font-size: 25px;
+	color: #000000;
+	font-family: "Bebas";
+	display: inline-block;
+	float: left;
+}
+.college-title {
+	font-size: 25px;
+	color: #000000;
+	font-family: "Bebas";
+	display: inline-block;
+	float: right;
+	margin-right: 150px;
+}
+.text2 {
+	font-size: 20px;
+	line-height: 25px;
+	color: #000000;
+	font-family: "Arial";
+	display: inline-block;
+	float: right;
+	width: 350px;
+	position: absolute;
+	margin-top: 100px;	
+}
+.text3 {
+	font-size: 20px;
+	line-height: 25px;
+	color: #000000;
+	font-family: "Arial";
+	display: inline-block;
+	float: left;
+	width: 350px;
+	margin-top: -130px;
+}
+.rectangle1 {
+	width: 186px;
+	height: 43px;
+	border-radius: 10px;
+	background-color: #eaaf46;
+	display: inline-block;
+	float: right;
+	font-size: 20px;
+	line-height: 25px;
+	color: #000000;
+	font-family: "Bebas";
+	position: absolute;
+	margin-top: 170px;
+    margin-left: 10px;
+	border: #eaaf46;
+}
+.rectangle2 {
+	width: 186px;
+	height: 43px;
+	border-radius: 10px;
+	background-color: #eaaf46;
+	display: inline-block;
+	font-size: 20px;
+	line-height: 25px;
+	color: #000000;
+	font-family: "Bebas";
+	margin-left: 120px;
+	border:#eaaf46;
+}
+.rectangle3 {
+	width: 186px;
+	height: 43px;
+	border-radius: 10px;
+	background-color: #eaaf46;
+	display: inline-block;
+	float: right;
+	font-size: 20px;
+	line-height: 25px;
+	color: #000000;
+	font-family: "Bebas";
+	position: absolute;
+	margin-top: 170px;
+    margin-left: 10px;
+	border: #eaaf46;
+}
+.social-icons-block {
+	text-align: center;
+	padding: 5px 0;
+}
+.social-link { 
+	display: inline-block; 
+	width: 40px; 
+	height: 40px;
+	border-radius: 10px; 
+	margin: 0 5px; 
+	background-image: url('images/socials.png'); 
+	background-repeat: no-repeat; 
+}
+.flickr {
+	background-position-x: -41px;
+}
+.google {
+	background-position-x: -71px;
+}
+.instagram {
+	background-position-x: -111px;
+}
+.linkedin {
+	background-position-x: -161px;
+}
+.pt {
+	background-position-x: -191px;
+}
+.tumblr {
+	background-position-x: -231px;
+}
+.tw {
+	background-position-x: -272px;
+}
+.vimeo {
+	background-position-x: -312px;
+}
+.policy {
+	display: inline-block;
+	float: left;
+	
+}
+.terms {
+	display: inline-block;
+	float: left;
+	margin-left: 20px;
+
+}
